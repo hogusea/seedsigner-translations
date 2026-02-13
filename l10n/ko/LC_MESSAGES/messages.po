@@ -1,0 +1,1137 @@
+# Translations template for seedsigner.
+# Copyright (C) 2026 SeedSigner
+# This file is distributed under the same license as the seedsigner project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: seedsigner 0.8.6\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-12-14 05:46-0600\n"
+"PO-Revision-Date: 2026-02-14 01:45+0900\n"
+"Last-Translator: Gemini-AI\n"
+"Language-Team: Korean <ko@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+"Language: ko\n"
+
+# [핵심 브랜딩 및 사용자 정의]
+msgid "Donate"
+msgstr "후원하기"
+
+msgid "BTCmobick"
+msgstr "비트모빅"
+
+# [추가 및 대문자 버전 대응]
+msgid "Review PSBT"
+msgstr "PSBT 검토"
+
+msgid "Review Details"
+msgstr "상세 내용 검토"
+
+msgid "PSBT Math"
+msgstr "PSBT 계산"
+
+msgid "Review Recipients"
+msgstr "수신자 검토"
+
+msgid "Sign PSBT"
+msgstr "PSBT 서명"
+
+msgid "Scan PSBT"
+msgstr "PSBT 스캔"
+
+msgid "Expected a PSBT"
+msgstr "PSBT가 필요합니다"
+
+msgid "Coordinator software"
+msgstr "코디네이터 소프트웨어"
+
+msgid "Can't validate a single sig addr without specifying a seed"
+msgstr "시드를 지정하지 않으면 싱글 시그 주소를 검증할 수 없습니다"
+
+msgid "Return to PSBT"
+msgstr "PSBT로 돌아가기"
+
+msgid "Review & Edit"
+msgstr "검토 및 수정"
+
+msgid "Keep Seed"
+msgstr "시드 유지"
+
+msgid "Verify Addr"
+msgstr "주소 검증"
+
+msgid "BIP-85 Child Seed"
+msgstr "BIP-85 하위 시드"
+
+msgid "Discard Seed"
+msgstr "시드 폐기"
+
+msgid "View Seed Words"
+msgstr "시드 단어 보기"
+
+msgid "Power Off"
+msgstr "전원 끄기"
+
+msgid "Update Setting"
+msgstr "설정 업데이트"
+
+msgid "I Understand"
+msgstr "이해했습니다"
+
+# [기존 번역 데이터 매칭]
+msgid "tBtc"
+msgstr "tBtc"
+
+msgid "tSats"
+msgstr "tSats"
+
+msgid "btc"
+msgstr "btc"
+
+msgid "sats"
+msgstr "sats"
+
+msgid "You can remove\nthe SD card now"
+msgstr "이제 SD 카드를\n제거하셔도 됩니다"
+
+msgid "SD card removed"
+msgstr "SD 카드 제거됨"
+
+msgid "SD card inserted"
+msgstr "SD 카드 삽입됨"
+
+msgid "Review Transaction"
+msgstr "거래 검토"
+
+msgid "Review details"
+msgstr "상세 내용 검토"
+
+msgid "1 input"
+msgstr "1개 입력"
+
+msgid "input 1"
+msgstr "입력 1"
+
+msgid "input 2"
+msgstr "입력 2"
+
+msgid "[ ... ]"
+msgstr "[ ... ]"
+
+msgid "input {}"
+msgstr "입력 {}"
+
+msgid "..."
+msgstr "..."
+
+msgid "self-transfer"
+msgstr "자체 전송"
+
+msgid "recipient 1"
+msgstr "수신자 1"
+
+msgid "recipient {}"
+msgstr "수신자 {}"
+
+msgid "fee"
+msgstr "수수료"
+
+msgid "OP_RETURN"
+msgstr "OP_RETURN"
+
+msgid "change"
+msgstr "잔액(거스름돈)"
+
+msgid "Transaction Math"
+msgstr "거래 계산"
+
+msgid "Review recipients"
+msgstr "수신자 검토"
+
+msgid "input"
+msgid_plural "inputs"
+msgstr[0] "입력"
+
+msgid "recipient"
+msgid_plural "recipients"
+msgstr[0] "수신자"
+
+msgid "{} change"
+msgstr "{} 거스름돈"
+
+msgid "Multisig"
+msgstr "멀티시그"
+
+msgid "Change"
+msgstr "거스름돈"
+
+msgid "Addr"
+msgstr "주소"
+
+msgid "Address verified!"
+msgstr "주소 확인됨!"
+
+msgid "raw hex data"
+msgstr "Raw 16진수 데이터"
+
+msgid "Sign Transaction"
+msgstr "거래 서명"
+
+msgid "Click to approve this transaction"
+msgstr "이 거래를 승인하려면 클릭"
+
+msgid "back"
+msgstr "뒤로"
+
+msgid "{}%"
+msgstr "{}%"
+
+msgid "Brighter"
+msgstr "더 밝게"
+
+msgid "Darker"
+msgstr "더 어둡게"
+
+msgid "Success!"
+msgstr "성공!"
+
+msgid "OK"
+msgstr "확인"
+
+msgid "Caution"
+msgstr "주의"
+
+msgid "Privacy Leak!"
+msgstr "개인정보 노출 주의!"
+
+msgid "I understand"
+msgstr "이해했습니다"
+
+msgid "Classified Info!"
+msgstr "기밀 정보!"
+
+msgid "Error"
+msgstr "오류"
+
+msgid "Restarting"
+msgstr "재시작 중"
+
+msgid "SeedSigner is restarting.\n\nAll in-memory data will be wiped."
+msgstr "SeedSigner가 재시작됩니다.\n\n메모리의 모든 데이터가 삭제됩니다."
+
+msgid "Powering Off"
+msgstr "전원 끄기"
+
+msgid "Please wait about 30 seconds before disconnecting power."
+msgstr "전원을 차단하기 전에 약 30초간 기다려주세요."
+
+msgid "Just Unplug It"
+msgstr "전원 코드 뽑기"
+
+msgid "It is safe to disconnect power at any time."
+msgstr "언제든 전원을 차단해도 안전합니다."
+
+msgid "Finalize Seed"
+msgstr "시드 확정"
+
+msgid "fingerprint"
+msgstr "지문(Fingerprint)"
+
+msgid "Backup Seed"
+msgstr "시드 백업"
+
+msgid "Backups do not include your passphrase."
+msgstr "백업에는 패스프레이즈가 포함되지 않습니다."
+
+msgid "Seed Words: {}/{}"
+msgstr "시드 단어: {}/{}"
+
+msgid "BIP-85 Index"
+msgstr "BIP-85 인덱스"
+
+msgid "Verify Backup?"
+msgstr "백업을 검증하시겠습니까?"
+
+msgid "Optionally verify that your mnemonic backup is correct."
+msgstr "니모닉 백업이 정확한지 선택적으로 검증합니다."
+
+msgid "Derivation Path"
+msgstr "파생 경로"
+
+msgid "Export xpub"
+msgstr "Xpub 내보내기"
+
+msgid "Xpub Details"
+msgstr "Xpub 상세 정보"
+
+msgid "Fingerprint"
+msgstr "지문(Fingerprint)"
+
+msgid "Derivation"
+msgstr "파생 경로"
+
+msgid "Xpub"
+msgstr "Xpub"
+
+msgid "BIP-39 Passphrase"
+msgstr "BIP-39 패스프레이즈"
+
+msgid "Verify Passphrase"
+msgstr "패스프레이즈 검증"
+
+msgid "changes fingerprint"
+msgstr "지문이 변경됩니다"
+
+msgid "Standard"
+msgstr "표준"
+
+msgid "BIP-39 wordlist indices"
+msgstr "BIP-39 단어 목록 인덱스"
+
+msgid "Compact"
+msgstr "압축"
+
+msgid "Raw entropy bits"
+msgstr "Raw 엔트로피 비트"
+
+msgid "Transcribe SeedQR"
+msgstr "SeedQR 옮겨 적기"
+
+msgid "Begin {}x{}"
+msgstr "시작 {}x{}"
+
+msgid "click to exit"
+msgstr "클릭하여 나가기"
+
+msgid "Optionally scan your transcribed SeedQR to confirm that it reads back correctly."
+msgstr "옮겨 적은 SeedQR을 스캔하여 올바르게 읽히는지 선택적으로 확인할 수 있습니다."
+
+msgid "Verify Address"
+msgstr "주소 검증"
+
+msgid "Checking address {}"
+msgstr "주소 {} 확인 중"
+
+msgid "Address Verified"
+msgstr "주소 검증됨"
+
+msgid "change address"
+msgstr "잔액(거스름돈) 주소"
+
+msgid "receive address"
+msgstr "수신 주소"
+
+msgid "index {}"
+msgstr "인덱스 {}"
+
+msgid "Multisig Verification"
+msgstr "멀티시그 검증"
+
+msgid "Load your multisig wallet descriptor to verify your receive/self-transfer or change address."
+msgstr "수신/자체 전송 또는 거스름돈 주소를 검증하려면 멀티시그 지갑 디스크립터를 로드하세요."
+
+msgid "Descriptor Loaded"
+msgstr "디스크립터 로드됨"
+
+msgid "Policy"
+msgstr "정책"
+
+msgid "Signing Keys"
+msgstr "서명 키"
+
+msgid "Review Message"
+msgstr "메시지 검토"
+
+msgid "Next"
+msgstr "다음"
+
+msgid "Confirm Address"
+msgstr "주소 확인"
+
+msgid "Sign message"
+msgstr "메시지 서명"
+
+msgid "derivation path"
+msgstr "파생 경로"
+
+msgid "Settings"
+msgstr "설정"
+
+msgid "I/O Test"
+msgstr "I/O(입출력) 테스트"
+
+msgid "Clear"
+msgstr "지우기"
+
+msgid "Exit"
+msgstr "나가기"
+
+msgid "Capturing image..."
+msgstr "이미지 캡처 중..."
+
+msgid "SeedSigner is 100%% free & open source, funded solely by the Bitcoin community.\n\nDonate onchain or LN at:"
+msgstr "SeedSigner는 100%% 무료 오픈소스이며, 비트코인 커뮤니티의 후원으로 운영됩니다.\n\n온체인 또는 LN 후원 주소:"
+
+msgid "Settings QR"
+msgstr "설정 QR"
+
+msgid "Settings updated..."
+msgstr "설정 업데이트됨..."
+
+msgid "Home"
+msgstr "홈"
+
+msgid "click a button"
+msgstr "버튼을 클릭하세요"
+
+msgid "reshoot"
+msgstr "다시 촬영"
+
+msgid "accept"
+msgstr "수락"
+
+msgid "Dice Roll {}/{}"
+msgstr "주사위 굴리기 {}/{}"
+
+msgid "Build Final Word"
+msgstr "마지막 단어 생성"
+
+msgid "The {mnemonic_length}th word is built from {num_bits} more entropy bits plus auto-calculated checksum."
+msgstr "{mnemonic_length}번째 단어는 {num_bits}개의 추가 엔트로피 비트와 자동 계산된 체크섬으로 생성됩니다."
+
+msgid "Coin Flip {}/{}"
+msgstr "동전 던지기 {}/{}"
+
+msgid "Heads = 1"
+msgstr "앞면 = 1"
+
+msgid "Tails = 0"
+msgstr "뒷면 = 0"
+
+msgid "Your input: \"{}\""
+msgstr "입력값: \"{}\""
+
+msgid "Checksum"
+msgstr "체크섬"
+
+msgid "Final Word: \"{}\""
+msgstr "마지막 단어: \"{}\""
+
+msgid "12th Word"
+msgstr "12번째 단어"
+
+msgid "24th Word"
+msgstr "24번째 단어"
+
+msgid "Address Explorer"
+msgstr "주소 탐색기"
+
+msgid "Wallet descriptor"
+msgstr "지갑 디스크립터"
+
+msgid "Next {}"
+msgstr "다음 {}개"
+
+msgid "Camera error. Check camera connections."
+msgstr "카메라 오류. 연결 상태를 확인하세요."
+
+msgid "Enabled"
+msgstr "활성화됨"
+
+msgid "Disabled"
+msgstr "비활성화됨"
+
+msgid "Prompt"
+msgstr "질문하기"
+
+msgid "Required"
+msgstr "필수"
+
+msgid "Animated (default)"
+msgstr "애니메이션 (기본)"
+
+msgid "Static"
+msgstr "정지 이미지"
+
+msgid "Specter legacy"
+msgstr "Specter 레거시"
+
+msgid "BTC"
+msgstr "BTC"
+
+msgid "Threshold at 0.01"
+msgstr "0.01 기준"
+
+msgid "BTC | sats hybrid"
+msgstr "BTC | sats 혼합"
+
+msgid "0°"
+msgstr "0°"
+
+msgid "90°"
+msgstr "90°"
+
+msgid "180°"
+msgstr "180°"
+
+msgid "270°"
+msgstr "270°"
+
+msgid "Low"
+msgstr "낮음"
+
+msgid "Medium"
+msgstr "중간"
+
+msgid "High"
+msgstr "높음"
+
+msgid "Mainnet"
+msgstr "메인넷"
+
+msgid "Testnet"
+msgstr "테스트넷"
+
+msgid "Regtest"
+msgstr "레그테스트"
+
+msgid "Store Settings on SD card"
+msgstr "설정을 SD 카드에 저장"
+
+msgid "Insert SD card to enable"
+msgstr "활성화하려면 SD 카드 삽입"
+
+msgid "Single Sig"
+msgstr "싱글 시그"
+
+msgid "Native Segwit"
+msgstr "네이티브 세그윗"
+
+msgid "Nested Segwit"
+msgstr "네스티드 세그윗"
+
+msgid "Legacy"
+msgstr "레거시"
+
+msgid "Taproot"
+msgstr "탭루트"
+
+msgid "Custom Derivation"
+msgstr "사용자 지정 파생"
+
+msgid "Custom Extension"
+msgstr "사용자 지정 확장"
+
+msgid "Language"
+msgstr "언어"
+
+msgid "Mnemonic language"
+msgstr "니모닉 언어"
+
+msgid "Persistent settings"
+msgstr "설정 영구 저장"
+
+msgid "Denomination display"
+msgstr "단위 표시"
+
+msgid "Bitcoin network"
+msgstr "비트코인 네트워크"
+
+msgid "QR code density"
+msgstr "QR 코드 밀도"
+
+msgid "Xpub export"
+msgstr "Xpub 내보내기"
+
+msgid "Sig types"
+msgstr "서명 유형"
+
+msgid "Script types"
+msgstr "스크립트 유형"
+
+msgid "Xpub QR format"
+msgstr "Xpub QR 형식"
+
+msgid "Show xpub details"
+msgstr "Xpub 상세 정보 표시"
+
+msgid "BIP-39 passphrase"
+msgstr "BIP-39 패스프레이즈"
+
+msgid "Camera rotation"
+msgstr "카메라 회전"
+
+msgid "Compact SeedQR"
+msgstr "압축 SeedQR"
+
+msgid "BIP-85 child seeds"
+msgstr "BIP-85 하위 시드"
+
+msgid "Electrum seeds"
+msgstr "일렉트럼 시드"
+
+msgid "Native Segwit only"
+msgstr "네이티브 세그윗 전용"
+
+msgid "Message signing"
+msgstr "메시지 서명"
+
+msgid "Show privacy warnings"
+msgstr "프라이버시 경고 표시"
+
+msgid "Show dire warnings"
+msgstr "심각한 경고 표시"
+
+msgid "Show QR brightness tips"
+msgstr "QR 밝기 팁 표시"
+
+msgid "Show partner logos"
+msgstr "파트너 로고 표시"
+
+msgid "Display type"
+msgstr "디스플레이 유형"
+
+msgid "Invert colors"
+msgstr "색상 반전"
+
+msgid "QR background color"
+msgstr "QR 배경색"
+
+msgid "Scan a seed"
+msgstr "시드 스캔"
+
+msgid "Enter 12-word seed"
+msgstr "12단어 시드 입력"
+
+msgid "Enter 24-word seed"
+msgstr "24단어 시드 입력"
+
+msgid "Enter Electrum seed"
+msgstr "일렉트럼 시드 입력"
+
+msgid "{} (?)"
+msgstr "{} (?)"
+
+msgid "Select Signer"
+msgstr "서명자 선택"
+
+msgid "Parsing PSBT..."
+msgstr "PSBT 파싱 중..."
+
+msgid "Unsupported Script Type!"
+msgstr "지원되지 않는 스크립트 유형!"
+
+msgid "Transaction has unsupported input script type, please verify your change addresses."
+msgstr "거래에 지원되지 않는 입력 스크립트 유형이 포함되어 있습니다. 잔액 주소를 확인하세요."
+
+msgid "Full Spend!"
+msgstr "전액 지출!"
+
+msgid "This transaction spends its entire input value. No change is coming back to your wallet."
+msgstr "이 거래는 입력된 모든 금액을 지출합니다. 지갑으로 돌아오는 잔액(거스름돈)이 없습니다."
+
+msgid "Will Send"
+msgstr "전송 예정"
+
+msgid "Next recipient"
+msgstr "다음 수신자"
+
+msgid "Skip verification"
+msgstr "검증 건너뛰기"
+
+msgid "Verify multisig change"
+msgstr "멀티시그 잔액 검증"
+
+msgid "Your Change"
+msgstr "내 잔액(거스름돈)"
+
+msgid "Self-Transfer"
+msgstr "자체 전송"
+
+msgid "Verify Multisig Addr"
+msgstr "멀티시그 주소 검증"
+
+msgid "Verifying Change..."
+msgstr "잔액 검증 중..."
+
+msgid "Verifying Self-Transfer..."
+msgstr "자체 전송 검증 중..."
+
+msgid "Transaction's {} address could not be verified from wallet descriptor."
+msgstr "지갑 디스크립터로 거래의 {} 주소를 검증할 수 없습니다."
+
+msgid "Transaction's {} address could not be generated from your seed."
+msgstr "시드에서 거래의 {} 주소를 생성할 수 없습니다."
+
+msgid "Suspicious Transaction"
+msgstr "의심스러운 거래"
+
+msgid "Address Verification Failed"
+msgstr "주소 검증 실패"
+
+msgid "Discard transaction"
+msgstr "거래 폐기"
+
+msgid "Approve transaction"
+msgstr "거래 승인"
+
+msgid "Select diff seed"
+msgstr "다른 시드 선택"
+
+msgid "Transaction Error"
+msgstr "거래 오류"
+
+msgid "Signing Failed"
+msgstr "서명 실패"
+
+msgid "Signing with this seed did not add a valid signature."
+msgstr "이 시드로 서명했지만 유효한 서명이 추가되지 않았습니다."
+
+msgid "Scan a QR code"
+msgstr "QR 코드 스캔"
+
+msgid "QRCode not recognized or not yet supported."
+msgstr "인식되지 않거나 아직 지원되지 않는 QR 코드입니다."
+
+msgid "Wrong QR Type"
+msgstr "잘못된 QR 유형"
+
+msgid "Scan Transaction"
+msgstr "거래 스캔"
+
+msgid "Expected a transaction"
+msgstr "거래 QR이 필요합니다"
+
+msgid "Scan SeedQR"
+msgstr "SeedQR 스캔"
+
+msgid "Expected a SeedQR"
+msgstr "SeedQR이 필요합니다"
+
+msgid "Scan descriptor"
+msgstr "디스크립터 스캔"
+
+msgid "Expected a wallet descriptor QR"
+msgstr "지갑 디스크립터 QR이 필요합니다"
+
+msgid "Scan address QR"
+msgstr "주소 QR 스캔"
+
+msgid "Expected an address QR"
+msgstr "주소 QR이 필요합니다"
+
+msgid "Unknown QR Type"
+msgstr "알 수 없는 QR 유형"
+
+msgid "QRCode is invalid or is a data format not yet supported."
+msgstr "QR 코드가 유효하지 않거나 아직 지원되지 않는 데이터 형식입니다."
+
+msgid "Back to Main Menu"
+msgstr "메인 메뉴로 돌아가기"
+
+msgid "With support from:"
+msgstr "후원:"
+
+msgid "Load a seed"
+msgstr "시드 불러오기"
+
+msgid "In-Memory Seeds"
+msgstr "메모리 내 시드"
+
+msgid "Load the seed to verify"
+msgstr "검증할 시드 불러오기"
+
+msgid "Select seed to verify"
+msgstr "검증할 시드 선택"
+
+msgid "Sign Message"
+msgstr "메시지 서명"
+
+msgid "Load the seed to sign with"
+msgstr "서명에 사용할 시드 불러오기"
+
+msgid "Select seed to sign with"
+msgstr "서명에 사용할 시드 선택"
+
+msgid "Scan a SeedQR"
+msgstr "SeedQR 스캔"
+
+msgid "Create a seed"
+msgstr "시드 생성"
+
+msgid "Load A Seed"
+msgstr "시드 불러오기"
+
+msgid "Seed Word #{}"
+msgstr "시드 단어 #{}"
+
+msgid "Review & edit"
+msgstr "검토 및 수정"
+
+msgid "Discard"
+msgstr "폐기"
+
+msgid "Invalid Mnemonic!"
+msgstr "유효하지 않은 니모닉!"
+
+msgid "Checksum failure; not a valid seed phrase."
+msgstr "체크섬 실패; 유효한 시드 구문이 아닙니다."
+
+msgid "Done"
+msgstr "완료"
+
+msgid "Edit passphrase"
+msgstr "패스프레이즈 수정"
+
+msgid "Discard passphrase"
+msgstr "패스프레이즈 폐기"
+
+msgid "Skip passphrase"
+msgstr "패스프레이즈 건너뛰기"
+
+msgid "Discard passphrase?"
+msgstr "패스프레이즈를 폐기할까요?"
+
+msgid "Your current passphrase entry will be erased."
+msgstr "입력한 현재 패스프레이즈가 지워집니다."
+
+msgid "Skip passphrase?"
+msgstr "패스프레이즈를 건너뛸까요?"
+
+msgid "You have not entered a passphrase yet."
+msgstr "아직 패스프레이즈를 입력하지 않았습니다."
+
+msgid "Keep seed"
+msgstr "시드 유지"
+
+msgid "Wipe seed {} from the device?"
+msgstr "기기에서 시드 {}를 삭제할까요?"
+
+msgid "Discard Seed?"
+msgstr "시드를 폐기할까요?"
+
+msgid "Electrum warning"
+msgstr "일렉트럼 경고"
+
+msgid "Some features are disabled for Electrum seeds."
+msgstr "일렉트럼 시드에서는 일부 기능이 비활성화됩니다."
+
+msgid "Scan transaction"
+msgstr "거래 스캔"
+
+msgid "Verify addr"
+msgstr "주소 검증"
+
+msgid "Address explorer"
+msgstr "주소 탐색기"
+
+msgid "Backup seed"
+msgstr "시드 백업"
+
+msgid "BIP-85 child seed"
+msgstr "BIP-85 하위 시드"
+
+msgid "Discard seed"
+msgstr "시드 폐기"
+
+msgid "View seed words"
+msgstr "시드 단어 보기"
+
+msgid "Export as SeedQR"
+msgstr "SeedQR로 내보내기"
+
+msgid "Export Xpub"
+msgstr "Xpub 내보내기"
+
+msgid "Xpub QR Format"
+msgstr "Xpub QR 형식"
+
+msgid "Xpub can be used to view all future transactions."
+msgstr "Xpub을 사용하면 미래의 모든 거래를 조회할 수 있습니다."
+
+msgid "Generating xpub..."
+msgstr "Xpub 생성 중..."
+
+msgid "You must keep your seed words private & away from all online devices."
+msgstr "시드 단어를 비공개로 유지하고 온라인 기기에 노출되지 않도록 하세요."
+
+msgid "Child #{}"
+msgstr "하위 #{}"
+
+msgid "Seed Words"
+msgstr "시드 단어"
+
+msgid "12 Words"
+msgstr "12 단어"
+
+msgid "24 Words"
+msgstr "24 단어"
+
+msgid "BIP-85 Num Words"
+msgstr "BIP-85 단어 수"
+
+msgid "BIP-85 Index Error"
+msgstr "BIP-85 인덱스 오류"
+
+msgid "Invalid Child Index"
+msgstr "유효하지 않은 하위 인덱스"
+
+msgid "BIP-85 Child Index must be between 0 and 2^31-1."
+msgstr "BIP-85 하위 인덱스는 0에서 2^31-1 사이여야 합니다."
+
+msgid "Try again"
+msgstr "다시 시도"
+
+msgid "Verify"
+msgstr "검증"
+
+msgid "Skip"
+msgstr "건너뛰기"
+
+msgid "Verify Word #{}"
+msgstr "단어 #{} 검증"
+
+msgid "Review seed words"
+msgstr "시드 단어 검토"
+
+msgid "Word #{} is not \"{}\"!"
+msgstr "단어 #{}는 \"{}\"가 아닙니다!"
+
+msgid "Wrong Word!"
+msgstr "틀린 단어!"
+
+msgid "Verification Error"
+msgstr "검증 오류"
+
+msgid "Backup Verified"
+msgstr "백업 검증됨"
+
+msgid "All mnemonic backup words were successfully verified!"
+msgstr "모든 니모닉 백업 단어가 성공적으로 검증되었습니다!"
+
+msgid "Standard: 25x25"
+msgstr "표준: 25x25"
+
+msgid "Compact: 21x21"
+msgstr "압축: 21x21"
+
+msgid "Standard: 29x29"
+msgstr "표준: 29x29"
+
+msgid "Compact: 25x25"
+msgstr "압축: 25x25"
+
+msgid "SeedQR Format"
+msgstr "SeedQR 형식"
+
+msgid "SeedQR is your private key!"
+msgstr "SeedQR은 귀하의 개인 키입니다!"
+
+msgid "Never photograph or scan it into a device that connects to the internet."
+msgstr "인터넷에 연결된 기기로 촬영하거나 스캔하지 마세요."
+
+msgid "Confirm SeedQR"
+msgstr "SeedQR 확인"
+
+msgid "Confirm SeedQR?"
+msgstr "SeedQR을 확인할까요?"
+
+msgid "Scan your SeedQR"
+msgstr "SeedQR을 스캔하세요"
+
+msgid "Error!"
+msgstr "오류!"
+
+msgid "Your transcribed SeedQR does not match your original seed!"
+msgstr "옮겨 적은 SeedQR이 원래 시드와 일치하지 않습니다!"
+
+msgid "Review SeedQR"
+msgstr "SeedQR 검토"
+
+msgid "Your transcribed SeedQR could not be read!"
+msgstr "옮겨 적은 SeedQR을 읽을 수 없습니다!"
+
+msgid "Your transcribed SeedQR successfully scanned and yielded the same seed."
+msgstr "옮겨 적은 SeedQR이 성공적으로 스캔되었으며 동일한 시드를 생성했습니다."
+
+msgid "Sig type can't be auto-detected from this address. Please specify:"
+msgstr "이 주소에서 서명 유형을 자동 감지할 수 없습니다. 지정해주세요:"
+
+msgid "Skip 10"
+msgstr "10개 건너뛰기"
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Return to transaction"
+msgstr "거래로 돌아가기"
+
+msgid "Signing messages for custom derivation paths not supported"
+msgstr "사용자 지정 파생 경로에 대한 메시지 서명은 지원되지 않습니다"
+
+msgid "Advanced"
+msgstr "고급"
+
+msgid "Hardware"
+msgstr "하드웨어"
+
+msgid "I/O test"
+msgstr "I/O 테스트"
+
+msgid "Dev Options"
+msgstr "개발자 옵션"
+
+msgid "Persistent Settings enabled. Settings saved to SD card."
+msgstr "설정 영구 저장이 활성화됨. 설정이 SD 카드에 저장되었습니다."
+
+msgid "Settings updated in temporary memory"
+msgstr "설정이 임시 메모리에 업데이트됨"
+
+msgid "New seed"
+msgstr "새 시드"
+
+msgid "Calc 12th/24th word"
+msgstr "12/24번째 단어 계산"
+
+msgid "Verify address"
+msgstr "주소 검증"
+
+msgid "Tools"
+msgstr "도구"
+
+msgid "12 words"
+msgstr "12 단어"
+
+msgid "24 words"
+msgstr "24 단어"
+
+msgid "Mnemonic Length?"
+msgstr "니모닉 길이?"
+
+msgid "Calculating..."
+msgstr "계산 중..."
+
+msgid "12 words ({} rolls)"
+msgstr "12 단어 ({}번 굴리기)"
+
+msgid "24 words ({} rolls)"
+msgstr "24 단어 ({}번 굴리기)"
+
+msgid "Mnemonic Length"
+msgstr "니모닉 길이"
+
+msgid "Coin flip entropy"
+msgstr "동전 던지기 엔트로피"
+
+msgid "Word selection entropy"
+msgstr "단어 선택 엔트로피"
+
+msgid "Finalize with zeros"
+msgstr "0으로 채워 확정"
+
+msgid "Final Word Calc"
+msgstr "마지막 단어 계산"
+
+msgid "Load seed"
+msgstr "시드 불러오기"
+
+msgid "Scan wallet descriptor"
+msgstr "지갑 디스크립터 스캔"
+
+msgid "Receive addresses"
+msgstr "수신 주소"
+
+msgid "Change addresses"
+msgstr "잔액(거스름돈) 주소"
+
+msgid "Calculating addrs..."
+msgstr "주소 계산 중..."
+
+msgid "Custom Derivation address explorer not yet implemented"
+msgstr "사용자 지정 파생 주소 탐색기는 아직 구현되지 않았습니다"
+
+msgid "Single sig descriptors not yet supported"
+msgstr "싱글 시그 디스크립터는 아직 지원되지 않습니다"
+
+msgid "Receive Addrs"
+msgstr "수신 주소"
+
+msgid "Change Addrs"
+msgstr "잔액 주소"
+
+msgid "Scan"
+msgstr "스캔"
+
+msgid "Seeds"
+msgstr "시드"
+
+msgid "Restart"
+msgstr "재시작"
+
+msgid "Power off"
+msgstr "전원 끄기"
+
+msgid "Reset / Power"
+msgstr "리셋 / 전원"
+
+msgid "This is still on our to-do list!"
+msgstr "아직 개발 중인 기능입니다!"
+
+msgid "Work In Progress"
+msgstr "작업 중"
+
+msgid "Not Yet Implemented"
+msgstr "아직 구현되지 않음"
+
+msgid "Back to main menu"
+msgstr "메인 메뉴로 돌아가기"
+
+msgid "Network Mismatch"
+msgstr "네트워크 불일치"
+
+msgid "Change Setting"
+msgstr "설정 변경"
+
+msgid "Current network setting ({}) doesn't match {}."
+msgstr "현재 네트워크 설정({})이 {}와 일치하지 않습니다."
+
+msgid "System Error"
+msgstr "시스템 오류"
+
+msgid "Hardware Error"
+msgstr "하드웨어 오류"
+
+msgid "Cannot access camera"
+msgstr "카메라에 접근할 수 없음"
+
+msgid "Disconnect power and check for a loose camera connection."
+msgstr "전원을 차단하고 카메라 연결 상태를 확인하세요."
+
+msgid "Update setting"
+msgstr "설정 업데이트"
+
+msgid "\"{}\" is currently disabled in Settings."
+msgstr "\"{}\" 기능이 현재 설정에서 비활성화되어 있습니다."
+
+msgid "Option Disabled"
+msgstr "옵션 비활성화됨"
+
+msgid "Action Required"
+msgstr "조치 필요"
+
+msgid "You must remove the\nMicroSD card to continue."
+msgstr "계속하려면 MicroSD 카드를\n제거해야 합니다."
+
+
+msgid "BTCmobick Logbook"
+msgstr "모빅 로그북"
+
+msgid "Forged by HoguSea."
+msgstr "호구씨가 만듦"
+
+msgid "(Not for sale, Just for fun"
+msgstr "(무료배포, 후원 대환영"
