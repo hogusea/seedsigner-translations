@@ -19,7 +19,7 @@ msgstr ""
 
 # [핵심 브랜딩 및 사용자 정의]
 msgid "Donate"
-msgstr "후원하기"
+msgstr "모빅로그북"
 
 msgid "BTCmobick"
 msgstr "비트모빅"
@@ -1126,12 +1126,5 @@ msgstr "조치 필요"
 msgid "You must remove the\nMicroSD card to continue."
 msgstr "계속하려면 MicroSD 카드를\n제거해야 합니다."
 
-
-msgid "BTCmobick Logbook"
-msgstr "모빅 로그북"
-
-msgid "Forged by HoguSea."
-msgstr "호구씨가 만듦"
-
-msgid "(Not for sale, Just for fun"
-msgstr "(무료배포, 후원 대환영"
+msgid "BTCmobick network"
+msgstr "네트워크"
