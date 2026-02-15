@@ -734,7 +734,7 @@ msgid "Back to Main Menu"
 msgstr "메인 메뉴로 돌아가기"
 
 msgid "With support from:"
-msgstr "후원:"
+msgstr "With support from:"
 
 msgid "Load a seed"
 msgstr "시드 불러오기"
@@ -1127,4 +1127,4 @@ msgid "You must remove the\nMicroSD card to continue."
 msgstr "계속하려면 MicroSD 카드를\n제거해야 합니다."
 
 msgid "BTCmobick network"
-msgstr "네트워크"
+msgstr "비트모빅 네트워크"
